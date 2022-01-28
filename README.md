@@ -2,9 +2,8 @@
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-qianyouwang/branch/main/graph/badge.svg?token=xD2UGpEeG9)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-qianyouwang)
 
-Storybook is here:
-Production: [https://ucsb-cs156-w22.github.io/jpa03-qianyouwang-docs/]()
-QA: [https://ucsb-cs156-w22.github.io/jpa03-qianyouwang-docs-qa/]()
+* Production: <https://ucsb-cs156-w22.github.io/jpa03-qianyouwang-docs/storybook>
+* QA:  <https://ucsb-cs156-w22.github.io/jpa03-qianyowuang-docs-qa/storybook>
 
 # demo-spring-react-example: dsre
 
